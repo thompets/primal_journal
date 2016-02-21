@@ -1,4 +1,4 @@
-== Primal Journal
+# Primal Journal
 
 This is an application to track and record the daily progress on the Primal Blueprint diet.
 
